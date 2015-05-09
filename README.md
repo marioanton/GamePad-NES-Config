@@ -1,7 +1,7 @@
 # GamePad-NES-Config
 GamePad NES Config - /opt/retropie/configs/nes/retroarch.cfg
 
-
+<pre>
 
 input_player1_joypad_index = "0"
 input_player1_b_btn = "0"
@@ -1526,3 +1526,4 @@ input_player2_r_y_minus_btn = "nul"
 input_player2_turbo = "nul"
 input_player2_turbo_btn = "nul"
 input_player2_turbo_axis = "nul"
+</pre>
